@@ -1,5 +1,5 @@
 
-## JUSTCODE 6th TEAM 5 JUSTMEAT 클론코딩 프로젝트 소개
+## JUSTCODE 6th TEAM 5 JUSTMEAT 클론코딩 프로젝트 소개 [작성자 : 오인환]
 
 - 신선한 육류 및  육가공 식품 사이트 [정육각](https://www.jeongyookgak.com/index) 클론 프로젝트
 - 짧은 프로젝트 기간동안 개발에 집중해야 하므로 디자인/기획 부분만 클론했습니다.
