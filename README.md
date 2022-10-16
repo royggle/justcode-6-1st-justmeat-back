@@ -7,7 +7,7 @@
 
 ### 개발 인원 및 기간
 
-- 개발기간 : 2030/8/29 ~ 2030/9/8
+- 개발기간 : 2022/8/29 ~ 2022/9/8
 - 개발 인원 : 프론트엔드 구현, 박기호, 정세영 총 3명, 백엔드 오인환, 이해연 총 2명
 - [백엔드 github 링크](https://github.com/wecode-bootcamp-korea/justcode-6-1st-justmeat-back)
 
